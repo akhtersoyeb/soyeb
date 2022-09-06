@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+body {
+  background-color: #FFF6EA;
+}
+
 
 a {
   color: inherit;
